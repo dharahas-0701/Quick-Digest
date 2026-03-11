@@ -1,2 +1,4 @@
 # Quick-Digest
-A new Summarizer using Google's Gemini AI model. It can summarize long articles into short summaries. It can also summarize long documents into short
+News-Buddy is an AI-powered summarization tool built using Google’s Gemini AI model to help users quickly understand large amounts of information. The system is designed to process long articles, research papers, blog posts, and other textual content, and convert them into concise and meaningful summaries. By leveraging advanced natural language processing capabilities of Gemini, the tool identifies the most important ideas, key points, and essential insights from the original content while removing unnecessary details.
+
+The goal of News-Buddy is to save time and improve information consumption by presenting users with clear and compact summaries without losing the core message of the original document. Whether it is lengthy online articles, reports, or documents, the system can efficiently condense them into shorter, easy-to-read formats. This makes it especially useful for students, researchers, and professionals who need to quickly grasp important information from large volumes of text.
